@@ -7,3 +7,6 @@
 [submodule "avl/avl-repo"]
 	path = avl/avl-repo
 	url = git@github.com:pengkui/avl.git
+[submodule "btree/btree-repo"]
+	path = btree/btree-repo
+	url = git@github.com:pengkui/btree.git
