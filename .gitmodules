@@ -13,3 +13,6 @@
 [submodule "suffixtree/suffixtree-repo"]
 	path = suffixtree/suffixtree-repo
 	url = git@github.com:pengkui/suffixtree.git
+[submodule "ropes/ropes-repo"]
+	path = ropes/ropes-repo
+	url = git@github.com:pengkui/ropes.git
