@@ -1,3 +1,6 @@
 [submodule "tst/pytst-repo"]
 	path = tst/pytst-repo
 	url = git@github.com:pengkui/pytst.git
+[submodule "aatree/aatree-repo"]
+	path = aatree/aatree-repo
+	url = git@github.com:pengkui/aatree.git
