@@ -4,3 +4,6 @@
 [submodule "aatree/aatree-repo"]
 	path = aatree/aatree-repo
 	url = git@github.com:pengkui/aatree.git
+[submodule "avl/avl-repo"]
+	path = avl/avl-repo
+	url = git@github.com:pengkui/avl.git
