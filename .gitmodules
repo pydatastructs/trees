@@ -10,3 +10,6 @@
 [submodule "btree/btree-repo"]
 	path = btree/btree-repo
 	url = git@github.com:pengkui/btree.git
+[submodule "suffixtree/suffixtree-repo"]
+	path = suffixtree/suffixtree-repo
+	url = git@github.com:pengkui/suffixtree.git
